@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Jacey! 
+- 👀 I’m interested in merging art and technology and plants... lots of plants
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: hello@jaceymcdaniels.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: One day I'll own sheep in Oslo and run a bookshop with a Risograph machine
